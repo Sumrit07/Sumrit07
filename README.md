@@ -16,13 +16,6 @@
 - 🗄️ SQLite / MySQL  
 - 🎨 HTML, CSS, JavaScript  
 - 🧠 Git & GitHub  
-
----
-
-### 🌐 Connect with Me
-- 🔗 LinkedIn: https://linkedin.com/in/your-link
-- 📸 Instagram: https://instagram.com/your-id
-
 ---
 ## Connect with me:
 
