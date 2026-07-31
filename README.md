@@ -99,28 +99,6 @@ Built and deployed a Machine Learning application using **Python, Scikit-learn, 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sumrit07&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumrit07&layout=compact&theme=tokyonight" height="170"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumrit07&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 📧 **Email:** sumritsingh327@gmail.com
