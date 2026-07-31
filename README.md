@@ -1,106 +1,136 @@
-<h1 align="center">Hi 👋, I'm Sumrit Singh</h1>
-<h3 align="center">Aspiring Data Analyst | Data Science Enthusiast | Python Developer</h3>
+<h1 align="center">Hi 👋, I'm Sumrit Singh Chouhan</h1>
+<h3 align="center">AI/ML Enthusiast | Backend Developer | Computer Science Student</h3>
 
 <p align="center">
-Turning raw data into meaningful insights through analytics, visualization, and machine learning.
+Building AI-powered applications with Python, FastAPI, Django, Machine Learning, and Generative AI.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Student passionate about Data Analytics & Machine Learning
+🎓 B.Tech Computer Science Student at Sangam University
 
-📊 Skilled in Python, SQL, Power BI, Excel & Data Visualization
+💡 Passionate about Artificial Intelligence, Machine Learning, Backend Development, and Generative AI.
 
-🤖 Currently learning Machine Learning and API Development
+💻 Experienced in developing AI-powered applications using FastAPI, Django, LangChain, LangGraph, and Google Gemini AI.
 
-💼 Looking for Internship & Full-Time Opportunities in Data Analytics / Data Science
+📚 Currently improving my skills in AI Engineering, Backend Development, and Machine Learning.
 
-🚀 Love building real-world projects that solve business problems
+🤝 Open to Internship and Entry-Level opportunities in AI/ML Engineering and Software Development.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
+
 - Python
 - SQL
+- JavaScript
+- HTML
+- CSS
 
-### Data Analysis
+### 🤖 AI & Machine Learning
+
+- Scikit-learn
 - Pandas
 - NumPy
-- Excel
-
-### Visualization
-- Power BI
 - Matplotlib
-- Plotly
+- Seaborn
+- Feature Engineering
+- Model Evaluation
+- NLP
+- Google Gemini AI
+- LangChain
+- LangGraph
 
-### Machine Learning
-- Scikit-Learn
+### ⚙️ Backend Development
 
-### Development Tools
+- FastAPI
+- Django
+- REST APIs
+
+### 🗄️ Databases
+
+- MySQL
+- PostgreSQL
+
+### 🧰 Tools
+
 - Git
 - GitHub
 - VS Code
 - Jupyter Notebook
+- Google Colab
+- Postman
+- Render
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Projects
 
-🔹 Sales Data Analysis
+### 🔹 AI QA Engineer Platform
 
-🔹 Customer Segmentation
-
-🔹 EDA Projects
-
-🔹 Machine Learning Models
-
-🔹 Power BI Dashboards
-
-*(Projects will be updated regularly.)*
+AI-powered code analysis platform built with **FastAPI, LangGraph, Google Gemini AI, and PostgreSQL** featuring bug detection, AI-assisted bug fixing, authentication, dashboard analytics, and PDF report generation.
 
 ---
 
-## 📈 Currently Learning
+### 🔹 AI MCQ Generator
 
-- Machine Learning
-- FastAPI
-- Flask
-- Data Engineering Basics
-- Statistics for Data Science
+Developed a Django-based application that generates MCQs from uploaded PDF study materials using NLP with authentication, quiz evaluation, and history management.
 
 ---
 
-## 🎯 2026 Goals
+### 🔹 Heart Disease Prediction System
 
-✅ Build 15+ Data Science Projects
+Built and deployed a Machine Learning application using **Python, Scikit-learn, Streamlit, Pandas**, and Support Vector Machine (SVM) for disease prediction.
 
-✅ Contribute to Open Source
+---
 
-✅ Complete Internship
+## 📜 Internship Experience
 
-✅ Master Power BI
+### GenAI Training + Internship
+**Regex Software Services, Jaipur**
 
-✅ Crack Data Analyst / Data Scientist Role
+- Built AI-powered applications using FastAPI and Django.
+- Worked with Google Gemini AI, LangGraph, Machine Learning, SQL, and Backend Development.
+- Developed real-world AI solutions and deployed applications on Render.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sumrit07&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumrit07&layout=compact&theme=tokyonight" height="170"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumrit07&theme=tokyonight"/>
+
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-📧 Email:
-**anshuchouhan058@gmail.com**
+📧 **Email:** sumritsingh327@gmail.com
 
-💼 LinkedIn:
-https://www.linkedin.com/in/sumrit-singh-chouhan-b710462b4
+💼 **LinkedIn:** https://www.linkedin.com/in/sumrit-singh-chouhan/
 
-🐙 GitHub:
-https://github.com/Sumrit07
+🐙 **GitHub:** https://github.com/Sumrit07
 
 ---
 
-## ⚡ Fun Fact
-
-I enjoy transforming messy datasets into clean, interactive dashboards and discovering insights hidden inside data.
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
